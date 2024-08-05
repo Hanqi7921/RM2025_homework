@@ -1,0 +1,6 @@
+# ninja log v5
+4	396	7445731266764722	CMakeFiles/Factory.dir/main.cpp.obj	247f320322f4d8f2
+322	699	7445731181969977	Factory.exe	cbc3c53f79a49914
+1	257	7445731478950110	build.ninja	1aeea1bbabe37c90
+3	455	7445731483649827	CMakeFiles/Factory.dir/Factory.cpp.obj	7a60fdded9a25d84
+455	829	7445731487322592	Factory.exe	2f2f32edc7d928d5
